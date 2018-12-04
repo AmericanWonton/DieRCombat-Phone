@@ -4,6 +4,9 @@
 	"Category": "",
 	"Description": "",
 	"TargetPlatforms": [
-		"Android"
+		"Android",
+		"AllDesktop",
+		"MacNoEditor",
+		"WindowsNoEditor"
 	]
 }
